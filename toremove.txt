@@ -1,1 +1,2 @@
-File to delete
+File to delete.
+A może by tak przywrócić?
